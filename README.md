@@ -32,9 +32,13 @@ The predicted class name is shown under the uploaded image. The model's output i
 
 # Technologies Used:
 1.Flask: A lightweight Python web framework used to create the server-side logic and handle routing for requests.
+
 2.TensorFlow/Keras: Machine learning libraries used to load the pre-trained MobileNetV2 model and perform image classification.
+
 3.HTML/CSS/Bootstrap: For designing the web page, handling the user interface, and ensuring responsiveness across different screen sizes.
+
 4.Python: Backend language for implementing the image processing, classification, and file handling logic.
+
 5.Jinja2 (Flask Templating Engine): To dynamically render HTML pages with data, such as prediction results, from the Flask backend.
 
 # Workflow:
@@ -57,6 +61,7 @@ The user sees the predicted class and can upload another image for classificatio
 
 # Use Cases:
 1.Educational: Help students and professionals understand how image classification models work and see them in action.
+
 2.Practical: Provide a simple tool for anyone to classify images using a deep learning model without needing any technical expertise.
 
 # Conclusion:
